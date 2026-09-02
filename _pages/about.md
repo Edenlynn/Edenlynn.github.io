@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # <span class='anchor' id='about-me'></span>🙋 About Me
-📚 **Biography:** Qingchun Tan(谭青春), graduated from Hope College of southwestjiaotonguniversity, majoring in computer science and technology, currently has one year's working experience in the c++development industry. His main projects include LinuxC, QT, MCU and other projects. He is familiar with QT, opencv, mqtt, multithreading and IPC concurrent processing, STM32 MCU bottom driver development. He is good at communication and has strong pressure resistance. He can work overtime and travel
+📚 **Biography:** Qingchun Tan(谭青春), I hold a Bachelor of Engineering degree in Computer Science and Technology from Hope College, Southwest Jiaotong University. I have one‑year industry experience in C++ development, working on Linux‑C, Qt and MCU‑related projects. I am skilled in Qt, OpenCV, MQTT, multi‑thread & IPC concurrent processing and STM32 low‑level driver development. I communicate well under pressure, and I am available for business trips and adaptable to intensive project timelines.
 
 # <span class="anchor" id="honors-and-awards"></span>🎖 Education & Achievements
 - <span style="color:#4f6d8c; font-weight:600;">2022.09‑2026.06</span> Bachelor of Engineering, Computer Science and Technology, Southwest Jiaotong University Hope College.
