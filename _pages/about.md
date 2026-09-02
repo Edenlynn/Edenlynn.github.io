@@ -12,79 +12,18 @@ redirect_from:
 📚 **Biography:** Tanqingchun(谭青春), graduated from the hope college of southwestjiaotonguniversity, majoring in computer science and technology for 26 years, has been engaged in the c++development industry for one year. His main projects include LinuxC, QT, MCU and other projects. He is familiar with QT, opencv, mqtt, multithreading and IPC concurrent processing, STM32 MCU bottom driver development. He is good at communication, has strong pressure resistance, and can work overtime and travel
 
 # <span class="anchor" id="skill-overview"></span>🔬 Skill Overview
-My technical stack focuses on **Modern C++ / Qt cross‑platform development**, **ARM‑Linux embedded application**, **Edge‑side AI deployment**, **IoT communication(MQTT/TCP/UDP)**, **Embedded MCU development(STM32/ESP32)**. I am good at requirement disassembly, module design, troubleshooting and iterative delivery for embedded device software.
-
-<style>
-.htree { display: flex; align-items: flex-start; }
-.htree ul { display: flex; flex-direction: column; padding-left: 1.5em; position: relative; list-style: none; margin: 0; }
-.htree > ul { padding-left: 0; }
-.htree li { display: flex; align-items: center; position: relative; padding: 0.18em 0; }
-.htree > ul > li { align-items: center; }
-.htree ul ul > li::before { content: ''; position: absolute; left: -1em; top: 0; height: 100%; border-left: 1.5px solid #c5d5e0; }
-.htree ul ul > li:first-child::before { top: 50%; height: 50%; }
-.htree ul ul > li:last-child::before { height: 50%; }
-.htree ul ul > li:only-child::before { display: none; }
-.htree ul ul > li::after { content: ''; position: absolute; left: -1em; top: 50%; width: 1em; border-top: 1.5px solid #c5d5e0; }
-.htree ul ul > li:only-child::after { display: none; }
-.htree .nd { display: inline-flex; align-items: center; padding: 5px 14px; border-radius: 20px; font-size:14px; line-height:1.4; white-space: nowrap; flex-shrink:0; }
-.htree .nd-rq { font-weight:600; padding:5px 16px; box-shadow:0 1px 4px rgba(0,0,0,0.08); border:1px solid #d8e4ed; }
-.htree .rq1 { background:#e8f4fd; color:#2c5282; transform: translateY(-5px); }
-.htree .rq2 { background:#e0f2e9; color:#276749; transform: translateY(-18px); }
-.htree .rq3 { background:#fef9ef; color:#744210; transform: translateY(-5px); }
-.htree .nd-sub { background:#f8f9fb; border:1px solid #e2e8f0; color:#555; font-weight:600; font-size:14px; padding:3px 10px; }
-.htree .leaf-wrap { display:flex; align-items:center; }
-.htree .pills { display:flex; flex-wrap:wrap; gap:4px; margin-left:0.6em; max-width:520px; }
-.htree .pill { display:inline-block; padding:2px 9px; border-radius:12px; font-size:14px; border:1px solid #e8ecf1; background:#fff; color:#444; text-decoration:none; white-space:nowrap; }
-.htree .pill:hover { background:#f0f4ff; border-color:#a4c2f4; }
-.htree .pill .v { display:inline-block; padding-left:6px; font-size:14px; color:#888; }
-@media (max-width: 768px) {
-  .htree ul { padding-left:1.2em; }
-  .htree .pills { max-width:50vw; }
-  .htree .nd { padding:3px 10px; }
-  .htree .pill { padding:4px 8px; }
-}
-</style>
-<div class="htree">
-<ul>
-  <li>
-    <span class="nd nd-rq rq1">Q1: C++ & Cross‑Platform Qt Development</span>
-    <ul><li><div class="leaf-wrap"><span class="nd nd-sub">Language & Build Tools</span>
-      <div class="pills">
-        <a class="pill">💻 Modern C++11/14/17<span class="v">SmartPtr / Lambda</span></a>
-        <a class="pill">🔧 CMake<span class="v">Multi‑level project</span></a>
-        <a class="pill">🐚 Shell Script<span class="v">Auto‑deploy</span></a>
-        <a class="pill">🖥️ Qt Widgets / QML<span class="v">Cross‑platform UI</span></a>
-      </div></div></li></ul>
-  </li>
-  <li>
-    <span class="nd nd-rq rq2">Q2: Embedded & AI End‑Side Deployment</span>
-    <ul>
-      <li><div class="leaf-wrap"><span class="nd nd-sub">Computer Vision & Inference</span>
-        <div class="pills">
-          <a class="pill">📷 OpenCV<span class="v">Image preprocess</span></a>
-          <a class="pill">🤖 ONNX Runtime<span class="v">YOLO end‑side infer</span></a>
-          <a class="pill">👤 Dlib<span class="v">Face‑feature</span></a>
-        </div></div></li>
-      <li><div class="leaf-wrap"><span class="nd nd-sub">ARM‑Linux & IoT</span>
-        <div class="pills">
-          <a class="pill">📡 MQTT<span class="v">Pub/Sub heartbeat</span></a>
-          <a class="pill">🔌 TCP/UDP<span class="v">QtNetwork</span></a>
-          <a class="pill">🗄️ SQLite<span class="v">Embedded storage</span></a>
-          <a class="pill">📟 RK3588<span class="v">ARM64‑Linux</span></a>
-        </div></div></li>
-    </ul>
-  </li>
-  <li>
-    <span class="nd nd-rq rq3">Q3: MCU Peripheral Development</span>
-    <ul><li><div class="leaf-wrap"><span class="nd nd-sub">Micro‑controller</span>
-      <div class="pills">
-        <a class="pill">⚙️ STM32<span class="v">HAL/Standard lib</span></a>
-        <a class="pill">📶 ESP32‑C5 / ESP8266<span class="v">WiFi BLE</span></a>
-        <a class="pill">🔁 POSIX IPC<span class="v">Multi‑process</span></a>
-      </div></div></li></ul>
-  </li>
-</ul>
-</div>
+C++programming: Familiar with the core features of modern C++(11/14/17), proficient in intelligent pointers, auto automatic type derivation, Lambda expressions, module programming, etc., and pay attention to code readability.
+Shell script development: Proficient in writing automated scripts (build/deploy/log analysis/system monitoring), can optimize script execution efficiency and fault tolerance, supports automated implementation such as project compilation and packaging, device batch configuration, etc., and builds a lightweight Shell automated operation and maintenance system.
+I am familiar with cross platform build management and skilled in using the "top-level+subdirectories" multi-level CMakeLists.txt architecture. I am proficient in using target driven commands, clarifying dependencies, and avoiding global configuration conflicts.
+Qt program development: Familiar with Qt Widgets and QML development, familiar with Qt core modules (Qt Core, Qt Network, Qt SQL, Qt Multimedia, etc.), possessing the ability to implement Windows/Linux/macOS cross platform development based on Qt, and solving cross platform differences.
+OpenCV graphics processing: Familiar with OpenCV image reading/saving, color space conversion, geometric transformation, filtering, morphological operations, etc. Skilled in developing visual applications that support real-time video surveillance, live detection with DNN module for access control facial recognition, and check-in with Qt.
+ONNX Runtime End side Deployment: Implementing AI deployment on the end side based on ONNX Runtime, integrating YOLO and OCR models in C++; Use Qt+OpenCV to complete image detection and ROI text extraction, with multi-threaded inference to avoid interface blocking and achieve offline recognition.
+MQTT protocol development: Familiar with Qt MQTT module, proficient in core classes such as QMqttClient and QMqttSubscription, skilled in combining Qt's signal slot mechanism to achieve asynchronous processing of MQTT messages, implementing heartbeat mechanism, topic publish/subscribe mode, message broker and other functions.
+Multithreading and Processes: Familiar with POSIX threads (pthread) and POSIX IPC (message queue/semaphore/shared memory), System V IPC (message queue/semaphore set/shared memory segment), to achieve process/thread safe database interaction and UI response.
+SQLite database development: Proficient in integrating SQLite through Qt SQL module, supporting lightweight data storage and multi-threaded secure access for embedded Linux, optimizing query performance, and building a lightweight data persistence architecture for Qt projects.
+Network programming: Deeply study TCP/IP and UDP protocols, proficient in implementing TCP/UDP communication development through Qt Network module, supporting high reliability TCP connections and lightweight UDP data transmission under embedded Linux, and building Qt project embedded network communication architecture.
+STM32 standard library development: Proficient in using the STM32 standard library to implement GPIO, UART, SPI/I2C and other peripheral driver development, supporting modular development of project underlying drivers and rapid implementation of functions, and building a lightweight STM32 underlying driver architecture.
+ESP32-C5 development: Understand the ESP-IDF framework and complete the development of ESP32-C5 peripheral drivers (timers, ADCs, communication buses) and wireless functions (Wi Fi 6 networking, BLE 5.0 Bluetooth communication), low-power data collection for IoT devices, and cloud MQTT communication.
 
 # <span class="anchor" id="news"></span>🔥 Project Highlights
 - <span style="color:#4f6d8c; font-weight:600;">[2026.03‑2026.08]</span> **智脸枢守‑科研机房人脸识别出入管控系统**: Qt device‑side, offline+cloud dual recognition, deployed on RK3588, delivered to customer site.
