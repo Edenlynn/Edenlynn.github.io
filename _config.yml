@@ -6,30 +6,28 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gou Tan (谭苟)"
-description              : "Ph.D. in CS, SYSU"
+title                    : "Qingchun Tan (谭青春)"
+description              : "C++ Embedded Software Engineer | Qt, ARM‑Linux, MCU, IoT Development"
 # repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
-
+google_scholar_stats_use_cdn : false
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
+google_analytics_id      :
 # SEO Related
-google_site_verification :  3139FsBTwGRqDAUALMXi2gOBK8apcI_-Nkpkjr7j7qo
-bing_site_verification   :  3E7D90F4C5F60EA82D64D8A0F799B68C
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
-# Site Author
+# Site Author（左侧侧边栏信息）
 author:
-  name             : "Gou Tan (谭苟)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Sun Yat-sen University"
-  location         : "Guangzhou, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Um5Dp9EAAAAJ"
-  email            : "tang29@mail2.sysu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  name             : "Qingchun Tan (谭青春)"
+  avatar           : "images/android‑chrome‑512x512.png" # 把你的证件照上传到 images/ 文件夹，修改此处文件名
+  bio              : "C++ Embedded Software Engineer"
+  location         : "Chengdu, China"
+  employer         : "Hope College, Southwest Jiaotong University"
+  pubmed           :
+  googlescholar    : ""
+  email            : "tanqingchun2003@163.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,27 +35,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "floritange"
+  github           : "Edenlynn"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "gou-tan-7647402b0"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0008-6580-1470"
+  linkedin         : "" # 没有linkedin保持空字符串
+  dblp             :
+  orcid            : ""
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -97,14 +94,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -127,17 +122,14 @@ defaults:
       layout: default
       author_profile: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: Asia/Shanghai
 
 # Plugins
 plugins:
@@ -146,7 +138,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -154,9 +146,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
