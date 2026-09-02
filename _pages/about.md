@@ -11,6 +11,16 @@ redirect_from:
 # <span class='anchor' id='about-me'></span>🙋 About Me
 📚 **Biography:** Tanqingchun(谭青春), graduated from the hope college of southwestjiaotonguniversity, majoring in computer science and technology for 26 years, has been engaged in the c++development industry for one year. His main projects include LinuxC, QT, MCU and other projects. He is familiar with QT, opencv, mqtt, multithreading and IPC concurrent processing, STM32 MCU bottom driver development. He is good at communication, has strong pressure resistance, and can work overtime and travel
 
+# <span class="anchor" id="honors-and-awards"></span>🎖 Education & Achievements
+- <span style="color:#4f6d8c; font-weight:600;">2022.09‑2026.06</span> Bachelor of Engineering, Computer Science and Technology, Southwest Jiaotong University Hope College.
+- <span style="color:#4f6d8c; font-weight:600;">GPA: 3.82 / 5.00, Top 15% of major</span>
+- <span style="font-size:14px;">Main courses: C/C++ Programming, Data Structure, MySQL, Software Engineering, Computer Network, Linux System Programming, Operating System, Computer Composition Principle.</span>
+
+# <span class="anchor" id="working-experience"></span>👨🏻‍💻 Working Experience
+- <span style="color:#4f6d8c; font-weight:600;">[2025.06‑2026.08]</span> Chengdu Jiaguo Interactive Technology Co., Ltd. C++ Development Engineer.
+
+  <span style="font-size:14px;">Responsible for Qt cross‑platform embedded software development & maintenance. Participate in requirement analysis, system design, UI and business module implementation. Complete module integration, fault investigation, version iteration and customer‑side verification for multiple embedded IoT projects.</span>
+
 # <span class="anchor" id="skill-overview"></span>🔬 Skill Overview
 C++programming: Familiar with the core features of modern C++(11/14/17), proficient in intelligent pointers, auto automatic type derivation, Lambda expressions, module programming, etc., and pay attention to code readability.
 Shell script development: Proficient in writing automated scripts (build/deploy/log analysis/system monitoring), can optimize script execution efficiency and fault tolerance, supports automated implementation such as project compilation and packaging, device batch configuration, etc., and builds a lightweight Shell automated operation and maintenance system.
@@ -46,16 +56,6 @@ Advertising Management: Parse the JSON advertising data received by MQTT, store 
 - **Responsibility Description**:Development of low-level peripheral drivers: Based on STM32 HAL library and Linux TTY subsystem, develop low-level drivers for sensors, wireless modules, and storage modules, encapsulate standardized peripheral operation APIs, and build a stable hardware interaction foundation.
 Wireless communication and protocol docking: Use ESP8266 module to achieve WiFi connection, connect to remote EMQX server through MQTT v3.1.1 protocol, build a duplex communication link for data reporting and instruction reception, encapsulate MQTT client API, and achieve stable data interaction between device and server.
 Local warning and interactive control: Drive industrial grade sound and light equipment through GPIO port to achieve graded warning of equipment abnormalities; Develop button interrupt handling logic, support local parameter configuration and fault reset, and adapt to minimalist interactive scenarios without touch screens in industrial sites.
-
-# <span class="anchor" id="honors-and-awards"></span>🎖 Education & Achievements
-- <span style="color:#4f6d8c; font-weight:600;">2022.09‑2026.06</span> Bachelor of Engineering, Computer Science and Technology, Southwest Jiaotong University Hope College.
-- <span style="color:#4f6d8c; font-weight:600;">GPA: 3.82 / 5.00, Top 15% of major</span>
-- <span style="font-size:14px;">Main courses: C/C++ Programming, Data Structure, MySQL, Software Engineering, Computer Network, Linux System Programming, Operating System, Computer Composition Principle.</span>
-
-# <span class="anchor" id="working-experience"></span>👨🏻‍💻 Working Experience
-- <span style="color:#4f6d8c; font-weight:600;">[2025.06‑2026.08]</span> Chengdu Jiaguo Interactive Technology Co., Ltd. C++ Development Engineer.
-
-  <span style="font-size:14px;">Responsible for Qt cross‑platform embedded software development & maintenance. Participate in requirement analysis, system design, UI and business module implementation. Complete module integration, fault investigation, version iteration and customer‑side verification for multiple embedded IoT projects.</span>
 
 # <span class="anchor" id="contact"></span>📞 Contact
 - Phone: 130‑5649‑5568
