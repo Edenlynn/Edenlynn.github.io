@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/files/googlea1ec11dcca3259de.html</loc>
+<lastmod>2024-12-22T15:31:10+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/qrs23/qrs23.pdf</loc>
+<lastmod>2024-12-22T15:31:10+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/qrs23/qrs23_slides.pdf</loc>
+<lastmod>2024-12-22T15:31:10+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/tosem25/tosem25_AIFailure.pdf</loc>
+<lastmod>2025-06-21T12:02:03+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/googlea1ec11dcca3259de.html</loc>
+<lastmod>2024-12-22T15:31:10+08:00</lastmod>
+</url>
+</urlset>
