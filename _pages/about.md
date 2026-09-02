@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # <span class='anchor' id='about-me'></span>🙋 About Me
-📚 **Biography:** Tan Qingchun (谭青春) is a Bachelor student at Southwest Jiaotong University Hope College, majoring in Computer Science and Technology. He is seeking full‑time C++ Development Engineer position, available for on‑board within one week.
+📚 **Biography:** Tanqingchun(谭青春), graduated from the hope college of southwestjiaotonguniversity, majoring in computer science and technology for 26 years, has been engaged in the c++development industry for one year. His main projects include LinuxC, QT, MCU and other projects. He is familiar with QT, opencv, mqtt, multithreading and IPC concurrent processing, STM32 MCU bottom driver development. He is good at communication, has strong pressure resistance, and can work overtime and travel
 
 <span style="color:#d32f2f; font-size:16px; font-weight:bold;">🎓 Looking for full‑time C++ Development Engineer position, available within one week.</span>
 
