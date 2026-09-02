@@ -57,12 +57,6 @@ Advertising Management: Parse the JSON advertising data received by MQTT, store 
 Wireless communication and protocol docking: Use ESP8266 module to achieve WiFi connection, connect to remote EMQX server through MQTT v3.1.1 protocol, build a duplex communication link for data reporting and instruction reception, encapsulate MQTT client API, and achieve stable data interaction between device and server.
 Local warning and interactive control: Drive industrial grade sound and light equipment through GPIO port to achieve graded warning of equipment abnormalities; Develop button interrupt handling logic, support local parameter configuration and fault reset, and adapt to minimalist interactive scenarios without touch screens in industrial sites.
 
-# <span class="anchor" id="contact"></span>📞 Contact
-- Phone: 130‑5649‑5568
-- Email: tanqingchun2003@163.com
-- Github: https://edenlynn.github.io/
-- Available: within one week
-
 <div style="text-align: center; margin-top: 20px;">
 </div>
 
