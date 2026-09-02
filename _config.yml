@@ -20,7 +20,7 @@ baidu_site_verification  :
 # Site Author（左侧侧边栏信息）
 author:
   name             : "Qingchun Tan (谭青春)"
-  avatar           : "images/android‑chrome‑512x512.png" # 把你的证件照上传到 images/ 文件夹，修改此处文件名
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "C++ Embedded Software Engineer"
   location         : "Chengdu, China"
   employer         : "Hope College, Southwest Jiaotong University"
